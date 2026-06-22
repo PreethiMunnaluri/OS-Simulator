@@ -1,6 +1,6 @@
 # OS Memory Management Simulator
 
-A C++-based Operating System simulator that models core OS functionalities including process management, paging, virtual memory, interrupt handling, address translation, and execution of assembly-like instructions.
+A Operating System simulator that models core OS functionalities including process management, paging, virtual memory, interrupt handling, address translation, and execution of assembly-like instructions.
 
 ## Overview
 
